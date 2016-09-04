@@ -1,0 +1,32 @@
+##### number of simulation replications
+500
+
+##### number of subjects per group (total number of subjects is multiplied by 3)
+30
+
+##### random generator seed (used to allow exact duplication of simulation results)
+11
+
+##### True intercept, time, HTi, LTi for the log-odds of vomit (GLMM part) # 2.3,-1,-0.8,-0.4
+2.3,-1,-0.8,-0.4
+ 
+##### True intercept, time, HTi, LTi for the log-odds of vomit (LME part) # 5.5,-1,-0.2,-0.1
+5.5,-1,-0.2,-0.1
+
+##### True variance component parameters: var(bi_log_odds), var(bi_amount_vomit),corr(bi_log_odds,bi_amount_vomit), var(e_ij)
+0.26,0.002,0.2,0.3
+
+##### number of repeated measurements per subject 
+5
+
+#### name of main simulation output file
+main_simu_out_H1_30sub.txt
+
+#### name of output file to store simulated dataset
+dat_simu_out_H1_30sub.txt
+
+#### name of output file to store simu log (replication of parameter estimates and test statistics)
+log_simu_out_H1_30sub.txt
+ 
+ 
+ 
