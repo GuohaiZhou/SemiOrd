@@ -1,5 +1,4 @@
-# semic_ord
-Code for simulation studies in order-restricted statistical inference for joint modelling of semi-continuous longitudinal data
+# Code for replicating the simulation studies in order-restricted statistical inference for joint modelling of semi-continuous longitudinal data
 
 # specify simulation settings in the file "simulation_configurations.txt"
 
